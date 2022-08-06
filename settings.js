@@ -7,16 +7,16 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6281575886399']
-global.premium = ['6281575886399']
-global.youtube = 'https://youtube.com/c/Riy'
-global.ownername = 'Riy'
-global.botname ='Hinata-Md'
+global.owner = ['6288980870067']
+global.premium = ['6288980870067']
+global.youtube = 'https://youtube.com/c/SabilOfc'
+global.ownername = 'SabilOfc'
+global.botname ='Siesta-Md'
 global.donasi = {
-    saweria: 'https://saweria.co/riy20',
-    nomor: '081575886399'
+    Gopay: '083112831554',
+    Dana: '088980870067'
 }
-global.packname = 'Hinata-Md'
+global.packname = 'Siesta-Md'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -31,7 +31,7 @@ global.mess = {
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...'
 }
-global.thumb = fs.readFileSync('./image/hinata.jpg')
+global.thumb = fs.readFileSync('./image/siesta.jpg')
 global.vn = './sound/menu.mp3'
 
 let file = require.resolve(__filename)
